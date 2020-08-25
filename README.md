@@ -44,6 +44,7 @@ Com isso pude montar um ambiente cloud que tenha alta disponibilidade e constant
 
 Links para verificação:
 
-Grafana: [http://ec2-54-172-86-241.compute-1.amazonaws.com:3000/](http://ec2-54-172-86-241.compute-1.amazonaws.com:3000/) | login: admin senha: Kelvincontrataeu!o/
+Grafana: [http://ec2-54-172-86-241.compute-1.amazonaws.com:3000/](http://ec2-54-172-86-241.compute-1.amazonaws.com:3000/) 
+Login: admin | Senha: Kelvincontrataeu!o/
 Prometheus: [http://ec2-54-172-86-241.compute-1.amazonaws.com:9090/](http://ec2-54-172-86-241.compute-1.amazonaws.com:9090/)
 Aplicação: [http://ec2-54-172-86-241.compute-1.amazonaws.com:8007/](http://ec2-54-172-86-241.compute-1.amazonaws.com:8007/)
